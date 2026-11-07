@@ -1,0 +1,4 @@
+site_name: Raising Cane's Nutrition Guide
+site_description: Independent guide to Raising Cane's nutrition information.
+nav:
+  - Home: index.md
